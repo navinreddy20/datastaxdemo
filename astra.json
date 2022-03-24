@@ -1,0 +1,16 @@
+{
+  "name": "Getting Started with Java + Spring + Astra DB",
+  "description": "This provides an example REST backend built in Java using Spring Boot for use with the Getting Started with Astra UI.",
+  "duration": "50 minutes",
+  "skillLevel": "Intermediate",
+  "githubUrl": "https://github.com/DataStax-Examples/getting-started-with-astra-java",
+  "tags": [
+    { "name": "labs", "color": "warning" },
+    { "name": "java" },
+    { "name": "spring" },
+    { "name": "java driver" }
+  ],
+  "category": "apps",
+  "priority": 3,
+  "heroImage": "https://raw.githubusercontent.com/DataStax-Examples/sample-app-template/master/screenshots/astra-sample-app-default.png"
+}
